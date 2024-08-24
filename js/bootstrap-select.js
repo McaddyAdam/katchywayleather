@@ -1,10 +1,3 @@
-/*!
- * Bootstrap-select v1.12.13 (https://github.com/heimrichhannot/bootstrap-select)
- *
- * Copyright 2013-2017 bootstrap-select
- * Licensed under MIT (https://github.com/heimrichhannot/bootstrap-select/LICENSE)
- */
-
 (function(root, factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD. Register as an anonymous module unless amdModuleId is set
